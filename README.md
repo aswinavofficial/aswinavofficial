@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=aswinavofficial)
+
 [![Aswin's github stats](https://github-readme-stats.vercel.app/api?username=aswinavofficial&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Github Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aswinavofficial&langs_count=3&theme=dracula)
